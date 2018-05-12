@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7515
     wikipedia: http://en.wikipedia.org/wiki/Louis_Ulbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17643#La-confession-d-un-abb-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-31'
 gutenberg_type: Text
